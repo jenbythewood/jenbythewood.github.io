@@ -15,7 +15,7 @@
         <div class="container">
             <h1>My Portfolio</h1>
             <p>Hello, My name is Jen and this is my Portfolio</p>
-            <p> href="./My Portfolio Projects.html"><h2>Click here to learn about my projects<h2></h2></h2></p>
+            <a href="./My Portfolio Projects.html"><h2>Click here to learn about my projects<h2></h2>a>
         </div>
     </body>
     </html>
