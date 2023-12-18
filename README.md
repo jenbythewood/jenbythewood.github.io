@@ -18,10 +18,3 @@
         </div>
     </body>
     </html>
-
-body{
-    margin: 0;
-    background: #000000;
-    text-color: #00ffff;
-    text-align: left;
-}
