@@ -15,4 +15,3 @@
             <p>Hello, My name is Jen and this is my Portfolio. I do not have a LinkIn account and I do not wish to create one. My github username is my website name before the ".github.io" The best way to contact me would be through my email jenbythewood@gmail.com</p>
             <a href="https://youtu.be/5ZRCLedM_8Q"><h2>Click here to watch my intro<h2></h2> 
             <a href="./My Portfolio Projects.html"><h2>Click here to learn about my projects<h2></h2>
- 
