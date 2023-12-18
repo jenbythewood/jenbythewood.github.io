@@ -1,5 +1,6 @@
 body{
     margin: 0;
-    background: aqua;
+    background: #000
+    text-color: $blue-400;
     text-align: left;
 }
