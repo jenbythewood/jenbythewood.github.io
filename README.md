@@ -1,7 +1,4 @@
 # jenbythewood.github.io
-![69280358841__56F90713-3606-4BA1-8014-1122A300E48C](https://github.com/jenbythewood/jenbythewood.github.io/assets/145355065/731378ff-d9af-4ac6-9b35-720097803ecb)
-
- 
 <!DOCTYPE html>
 <html lang="en">
     <head>
@@ -18,6 +15,9 @@
         </div>
     </body>
     </html>
+
+![69280358841__56F90713-3606-4BA1-8014-1122A300E48C](https://github.com/jenbythewood/jenbythewood.github.io/assets/145355065/731378ff-d9af-4ac6-9b35-720097803ecb)
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
